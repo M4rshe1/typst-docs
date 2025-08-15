@@ -1,1 +1,4 @@
 docs/gf*
+.vscode/
+.DS_Store
+.idea
