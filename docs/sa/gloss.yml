@@ -1,0 +1,25 @@
+html:
+  short: HTML
+  article: an
+  long: Hypertext Markup Language
+  longarticle: a
+  description: A standard language for creating web pages
+
+css:
+  short: CSS
+  long: Cascading Style Sheets
+  description: A stylesheet language used for describing the presentation of a document
+
+tps:
+  short: TPS
+  long: test procedure specification
+  description: A formal document describing test steps and expected results
+  plural: TPSes
+  longplural: test procedure specifications
+
+bri:
+  short: BRI
+  long: Belt and Road Initiative
+  description: A Chinese initiative to connect Asia, Europe, and Africa through infrastructure projects
+
+WWW: World Wide Web
